@@ -24,7 +24,6 @@ public class Fenetre extends JFrame   implements ActionListener {
         menuBas.btnDelete.addActionListener(new Delete());
         this.setContentPane(container);
         this.setVisible(true);
-        annimation.go();
 
     }
 
@@ -36,7 +35,8 @@ public class Fenetre extends JFrame   implements ActionListener {
 
     class Add implements ActionListener {
         public void actionPerformed(ActionEvent arg0) {
-            annimation.ajouterBulle();
+            annimation.Ajouter();
+
         }
     }
 
@@ -49,10 +49,8 @@ public class Fenetre extends JFrame   implements ActionListener {
     class Delete implements ActionListener {
         public void actionPerformed(ActionEvent arg0) {
             System.out.println("delette");
+            annimation.Delete();
         }
     }
-
-
-
 
 }
