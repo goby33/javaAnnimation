@@ -15,7 +15,7 @@ public class Bulle {
     public Bulle(int width , int height) {
         this.x = random(0 , width);
         this.y = random(0 , height);
-        this.couleur = tableauCouleur[random(0 , tableauCouleur.length)];
+        this.couleur = tableauCouleur[random(0 , tableauCouleur.length -1)];
 
     }
 

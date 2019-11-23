@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a369875-40cf-4209-87ce-1c47742b9feb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Bulle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/background/com/company/Annimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/background/com/company/Annimation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/background/com/company/Fenetre$Add.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/background/com/company/Fenetre$Add.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/background/com/company/Fenetre.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/background/com/company/Fenetre.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/background/com/company/Panneau.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/background/com/company/Panneau.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Annimation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Annimation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Fenetre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Fenetre.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Panneau.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Panneau.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Bulle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Bulle.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,11 +44,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/Annimation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="70" column="51" selection-start-line="70" selection-start-column="51" selection-end-line="70" selection-end-column="51" />
+            <state relative-caret-position="564">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
@@ -76,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/company/Bulle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="571">
-              <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
+            <state relative-caret-position="377">
+              <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#346#347#0" expanded="true" />
@@ -180,6 +170,7 @@
         <option value="$PROJECT_DIR$/src/com/company/Panneau.java" />
         <option value="$PROJECT_DIR$/src/com/company/Fenetre.java" />
         <option value="$PROJECT_DIR$/src/com/company/Annimation.java" />
+        <option value="$PROJECT_DIR$/src/com/company/Bulle.java" />
       </list>
     </option>
   </component>
@@ -273,12 +264,12 @@
       <workItem from="1574088809896" duration="30000" />
       <workItem from="1574088885224" duration="15525000" />
       <workItem from="1574164248029" duration="4587000" />
-      <workItem from="1574274065912" duration="14294000" />
+      <workItem from="1574274065912" duration="14564000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34436000" />
+    <option name="totallyTimeSpent" value="34706000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -293,11 +284,11 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24183674" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24387754" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
@@ -363,32 +354,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Bulle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="571">
-          <caret line="56" column="5" selection-start-line="56" selection-start-column="5" selection-end-line="56" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#411#412#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#724#725#0" expanded="true" />
-            <element signature="e#755#756#0" expanded="true" />
-            <element signature="e#781#782#0" expanded="true" />
-            <element signature="e#824#825#0" expanded="true" />
-            <element signature="e#858#859#0" expanded="true" />
-            <element signature="e#901#902#0" expanded="true" />
-            <element signature="e#935#936#0" expanded="true" />
-            <element signature="e#1043#1044#0" expanded="true" />
-            <element signature="e#1067#1068#0" expanded="true" />
-            <element signature="e#1092#1093#0" expanded="true" />
-            <element signature="e#1116#1117#0" expanded="true" />
-            <element signature="e#1149#1150#0" expanded="true" />
-            <element signature="e#1179#1180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Panneau.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -414,8 +379,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/Annimation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="70" column="51" selection-start-line="70" selection-start-column="51" selection-end-line="70" selection-end-column="51" />
+        <state relative-caret-position="564">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/Bulle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="17" column="73" selection-start-line="17" selection-start-column="73" selection-end-line="17" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#781#782#0" expanded="true" />
+            <element signature="e#824#825#0" expanded="true" />
+            <element signature="e#858#859#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#1043#1044#0" expanded="true" />
+            <element signature="e#1067#1068#0" expanded="true" />
+            <element signature="e#1092#1093#0" expanded="true" />
+            <element signature="e#1116#1117#0" expanded="true" />
+            <element signature="e#1149#1150#0" expanded="true" />
+            <element signature="e#1179#1180#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
